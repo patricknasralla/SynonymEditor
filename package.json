@@ -7,13 +7,15 @@
   "dependencies": {
     "@emotion/core": "10.0.9",
     "@emotion/styled": "10.0.9",
+    "awesome-debounce-promise": "2.1.0",
     "immutable": "4.0.0-rc.12",
+    "is-hotkey": "0.1.4",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-scripts": "2.0.3",
     "slate": "0.44.12",
     "slate-react": "0.21.18",
-    "thesaurus-com": "1.2.1"
+    "thesaurus": "0.0.0"
   },
   "devDependencies": {},
   "scripts": {
