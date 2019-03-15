@@ -1,2 +1,0 @@
-# SynonymEditor
-Created with CodeSandbox
