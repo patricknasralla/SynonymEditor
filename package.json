@@ -1,10 +1,11 @@
 {
-  "name": "new",
+  "name": "synonymeditor",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@emotion/core": "10.0.9",
     "@emotion/styled": "10.0.9",
     "immutable": "4.0.0-rc.12",
     "react": "16.8.3",
